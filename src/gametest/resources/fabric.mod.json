@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "slyrex-test",
+  "version": "1.0.0",
+  "name": "Slyrex Test",
+  "environment": "client",
+  "entrypoints": {
+    "fabric-client-gametest": ["de.slyrex.test.SlyrexClientTest"]
+  },
+  "depends": { "slyrex": "*" }
+}

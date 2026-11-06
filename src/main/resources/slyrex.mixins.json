@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "de.slyrex.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ClientPlayNetworkHandlerMixin",
+    "HandledScreenAccessor",
+    "MinecraftClientReducedDebugMixin",
+    "SoundSystemMixin"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}

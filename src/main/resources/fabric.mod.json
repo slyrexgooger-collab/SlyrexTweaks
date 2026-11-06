@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "slyrex",
+  "version": "${version}",
+  "name": "Slyrex",
+  "description": "Alle Slyrex-Module in einem Menü (Rechte Shift-Taste): Auktionen, Begleiter, Totem-Zähler, Fight-Presets, Invsee-Zähler, Zweiter Chat, Adblocker, Fake-Check, Streamer-Modus, Fadenkreuz, DuraGuard, Sound-Muffler, Rename-Studio und Rechner.",
+  "authors": ["slyrex"],
+  "license": "MIT",
+  "icon": "assets/slyrex/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["de.slyrex.Slyrex"]
+  },
+  "mixins": ["slyrex.mixins.json", "begleiter.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.17.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "breaks": {
+    "auktionsmod": "*",
+    "begleiter": "*"
+  }
+}

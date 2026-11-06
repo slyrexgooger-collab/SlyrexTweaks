@@ -1,0 +1,15 @@
+{
+  "key.category.slyrex.main": "Slyrex",
+  "key.slyrex.menu": "Slyrex-Menü öffnen",
+  "key.slyrex.calculator": "Rechner öffnen",
+  "key.slyrex.rename": "Rename-Studio öffnen",
+  "key.slyrex.auktion": "Auktionsmenü öffnen",
+  "key.slyrex.begleiter_menu": "Begleiter-Einstellungen",
+  "key.slyrex.begleiter_talk": "Mit Begleiter reden",
+  "subtitles.slyrex.begleiter.talk": "Begleiter plappert",
+  "subtitles.slyrex.begleiter.happy": "Begleiter freut sich",
+  "subtitles.slyrex.begleiter.hmph": "Begleiter: Hmpf!",
+  "subtitles.slyrex.begleiter.angry": "Begleiter faucht",
+  "subtitles.slyrex.begleiter.embarrassed": "Begleiter ist verlegen",
+  "subtitles.slyrex.begleiter.sad": "Begleiter ist traurig"
+}
